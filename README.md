@@ -20,6 +20,6 @@ spring boot 版本
 
 下载完成jar 包之后，需要运行jar，如下：
 
-java -jar zipkin-server-2.10.1-exec.jar
+  java -jar zipkin-server-2.10.1-exec.jar
 
 访问浏览器localhost:9411
